@@ -1,0 +1,2 @@
+class ItemReport < ApplicationRecord
+end
